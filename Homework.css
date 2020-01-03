@@ -1,0 +1,13 @@
+
+.nav_top{background-color: orange; width: 99%; height: 50px; font-size: 16px; position: sticky; position: fixed; top: 0;}
+
+.nav_top a{float: left; border-left: ridge 2px white; color: white; text-align: center; text-decoration: none; padding: 10px; width: 30%; height: 60%;}
+
+.nav_top a:hover{background-color: green;}
+
+
+
+h1{color:blue; font-family:courier; text-align:center; border:ridge 5px blue; padding: 8px; background-color: yellow;}
+
+.top{text-align: right; font family: monotype; font-style: italic; font-size: 20px}
+
